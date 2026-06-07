@@ -1,5 +1,5 @@
 ## Lab 1 - Introduction to AWS Identity and Access Management (IAM)
-## NAME : SANJAYKUMAR
+## NAME : SANJAYKUMAR B
 ## REGISTER NO: 212224230242
 ## Title
 Introduction to AWS Identity and Access Management (IAM)
